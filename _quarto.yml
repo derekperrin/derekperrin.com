@@ -3,18 +3,25 @@ project:
   output-dir: docs
 
 website:
-  title: "derekperrin.github.io"
+  title: "Derek Perrin"
+  description: "This is Derek Perrin's personal site."
   navbar:
-    left:
-      - href: index.qmd
-        text: Home
+    right:
+      - text: Home
+        href: index.qmd
       - about.qmd
+      - posts.qmd
+  page-footer:
+    background: light
+    left: © 2024, Derek Perrin
+    right: >
+      This website is built with
+      [<i class="bi bi-github" title="Github logo"></i>](https://github.com) and
+      [Quarto](https://quarto.org)
 
 format:
   html:
-    theme: cosmo
+    theme: spacelab
     css: styles.css
     toc: true
-
-
-
+    page-layout: full

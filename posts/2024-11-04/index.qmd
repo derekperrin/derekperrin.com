@@ -1,0 +1,14 @@
+---
+title: "My Blog Post Title"
+description: "This is a description of the blog post."
+author:
+  - name: Derek Perrin
+    url: https://derekperrin.com/
+    affiliation: PhD of Mathematics Program @ University of Canterbury
+    affiliation-url: https://www.canterbury.ac.nz
+date: 2024-11-04
+categories: [cat one, cat two, cat three]
+citation:
+  url: https://derekperrin.com/posts/2024-11-04/
+draft: true
+---

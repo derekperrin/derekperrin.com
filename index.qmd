@@ -1,7 +1,20 @@
 ---
-title: "derekperrin.github.io"
+title: "Derek Perrin"
+image: media/headshot.jpg
+toc: false
+about:
+  template: jolla
+  image-shape: round
+  image-width: 15em
+  links:
+    - icon: linkedin
+      href: https://www.linkedin.com/in/derekperrin/
+    - icon: github
+      href: https://github.com/derekperrin
+    - icon: signal
+      href: https://signal.me/#eu/jDJYIIc0xtYuW17WQUWKoAzWhhY6M6muZrA9Q-r1U7jZ6mpIgwROKJf4xUooAcRW
+    - icon: mastodon
+      href: https://mathstodon.xyz/@derekperrin
+    - icon: twitter-x
+      href: https://x.com/derek_perrin
 ---
-
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
