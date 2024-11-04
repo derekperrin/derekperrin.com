@@ -1,5 +1,10 @@
 ---
 title: "About"
+toc: false
 ---
 
-About this site
+I'm originally from Canada. In 2018, I completed BSc degrees in Computer Science and Mathematics concurrently at [The University of Saskatchewan](https://www.usask.ca). In a classic case of not knowing what to do after that milestone, supplemented with a healthy dose of job rejections, I did what many new graduates in the same position did: I went to grad school. In 2022, I completed an MSc in Mathematics under the supervision of [Cameron Franc](https://ms.mcmaster.ca/~francc13/). Towards the end of my master's, while browsing the [jobs section of the IACR](https://iacr.org/jobs), I found what felt like the perfect-for-me [post](https://web.archive.org/web/20210301011343/https://www.math.canterbury.ac.nz/~f.voloch/prospective.html) of a professor looking for a prospective PhD student, and our research interests happened to align. Fast forward a few years,  and I'm now in my final year of a PhD in Mathematics at [The University of Canterbury](https://www.canterbury.ac.nz) in Christchurch, New Zealand, under the supervision of [Felipe Voloch](https://www.math.canterbury.ac.nz/~f.voloch/). 
+
+When I started my PhD in 2022, I told myself that I'd make a website to document my journey as an international PhD student. Well, as any good (bad?) PhD student would know, procrastination is a real thing. New Zealand has a lot to offer, and it really aided in my procrastinating of making this website. I even paid for hosting services for two years with the honest intention of doing it! Well, my plan's renewal date was nearing and it got me questioning if I should renew it or not since I wasn't using their services at all anyway. The recent drama with WordPress and WP Engine got me questioning if there was a cheaper alternative. After a recommendation by a friend followed by a bit of searching, I settled on [Quarto](https://quarto.org) and [GitHub Pages](https://pages.github.com) and now I'm here.
+
+I'm still not entirely sure what the content of this site will be. For now, my intent is to just do the occasional blog post about wrapping up my PhD and cooking.

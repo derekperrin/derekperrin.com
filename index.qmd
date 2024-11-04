@@ -18,3 +18,5 @@ about:
     - icon: twitter-x
       href: https://x.com/derek_perrin
 ---
+
+Hi, I'm Derek! I'm currently working towards a PhD in Mathematics in New Zealand. My research area is in isogenies and their applications to post-quantum cryptography. In my spare time, I enjoy knitting, working on my penmanship, discovering new recipes to cook, and playing video games.

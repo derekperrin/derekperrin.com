@@ -5,15 +5,29 @@ project:
 website:
   title: "Derek Perrin"
   description: "This is Derek Perrin's personal site."
+  site-url: https://derekperrin.com
   navbar:
     right:
+      - icon: rss
+        href: posts.xml
       - text: Home
         href: index.qmd
       - about.qmd
       - posts.qmd
+      - text: Contact
+        menu:
+          - icon: signal
+            text: Signal
+            href: https://signal.me/#eu/jDJYIIc0xtYuW17WQUWKoAzWhhY6M6muZrA9Q-r1U7jZ6mpIgwROKJf4xUooAcRW
+          - icon: linkedin
+            text: LinkedIn
+            href: https://linkedin.com/in/derekperrin
+          - icon: envelope
+            text: email
+            href: mailto:derek@derekperrin.com
   page-footer:
     background: light
-    left: © 2024, Derek Perrin
+    left: © 2024 Derek Perrin
     right: >
       This website is built with
       [<i class="bi bi-github" title="Github logo"></i>](https://github.com) and
