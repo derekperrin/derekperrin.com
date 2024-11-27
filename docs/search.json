@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Derek Perrin",
-    "section": "",
-    "text": "Hi, I’m Derek! I’m currently working towards a PhD in Mathematics in New Zealand. My research area is in isogenies and their applications to post-quantum cryptography. In my spare time, I enjoy knitting, working on my penmanship, discovering new recipes to cook, and playing video games."
-  },
-  {
     "objectID": "posts.html",
     "href": "posts.html",
     "title": "Posts",
@@ -19,5 +12,12 @@
     "title": "About",
     "section": "",
     "text": "I’m originally from Canada. In 2018, I completed BSc degrees in Computer Science and Mathematics concurrently at The University of Saskatchewan. In a classic case of not knowing what to do after that milestone, supplemented with a healthy dose of job rejections, I did what many new graduates in the same position did: I went to grad school. In 2022, I completed an MSc in Mathematics under the supervision of Cameron Franc. Towards the end of my master’s, while browsing the jobs section of the IACR, I found what felt like the perfect-for-me post of a professor looking for a prospective PhD student, and our research interests happened to align. Fast forward a few years, and I’m now in my final year of a PhD in Mathematics at The University of Canterbury in Christchurch, New Zealand, under the supervision of Felipe Voloch.\nWhen I started my PhD in 2022, I told myself that I’d make a website to document my journey as an international PhD student. Well, as any good (bad?) PhD student would know, procrastination is a real thing. New Zealand has a lot to offer, and it really aided in my procrastinating of making this website. I even paid for hosting services for two years with the honest intention of doing it! Well, my plan’s renewal date was nearing and it got me questioning if I should renew it or not since I wasn’t using their services at all anyway. The recent drama with WordPress and WP Engine got me questioning if there was a cheaper alternative. After a recommendation by a friend followed by a bit of searching, I settled on Quarto and GitHub Pages and now I’m here.\nI’m still not entirely sure what the content of this site will be. For now, my intent is to just do the occasional blog post about wrapping up my PhD and cooking."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Derek Perrin",
+    "section": "",
+    "text": "Hi, I’m Derek! I’m currently working towards a PhD in Mathematics in New Zealand. My research area is in isogenies and their applications to post-quantum cryptography. In my spare time, I enjoy knitting, working on my penmanship, discovering new recipes to cook, and playing video games."
   }
 ]
