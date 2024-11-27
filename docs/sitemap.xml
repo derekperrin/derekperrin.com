@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://derekperrin.com/index.html</loc>
+    <lastmod>2024-11-05T02:34:47.311Z</lastmod>
+  </url>
+  <url>
     <loc>https://derekperrin.com/posts.html</loc>
-    <lastmod>2024-11-04T06:57:30.578Z</lastmod>
+    <lastmod>2024-11-04T20:49:53.501Z</lastmod>
   </url>
   <url>
     <loc>https://derekperrin.com/about.html</loc>
-    <lastmod>2024-11-04T10:15:34.436Z</lastmod>
-  </url>
-  <url>
-    <loc>https://derekperrin.com/index.html</loc>
-    <lastmod>2024-11-04T09:02:04.568Z</lastmod>
+    <lastmod>2024-11-04T20:49:53.497Z</lastmod>
   </url>
 </urlset>
