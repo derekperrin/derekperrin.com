@@ -21,12 +21,14 @@ website:
           - icon: signal
             text: Signal
             href: https://signal.me/#eu/jDJYIIc0xtYuW17WQUWKoAzWhhY6M6muZrA9Q-r1U7jZ6mpIgwROKJf4xUooAcRW
-          - icon: linkedin
-            text: LinkedIn
-            href: https://linkedin.com/in/derekperrin
+            target: _blank
           - icon: envelope
             text: email
             href: mailto:derek@derekperrin.com
+          - icon: linkedin
+            text: LinkedIn
+            href: https://linkedin.com/in/derekperrin
+            target: _blank
   page-footer:
     background: light
     left: Copyright © 2024 Derek Perrin
@@ -41,3 +43,4 @@ format:
     css: styles.css
     toc: true
     page-layout: full
+    linkcolor: gray

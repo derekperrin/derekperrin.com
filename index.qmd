@@ -6,17 +6,14 @@ about:
   template: jolla
   image-shape: round
   image-width: 15em
-  links:
-    - icon: linkedin
-      href: https://www.linkedin.com/in/derekperrin/
-    - icon: github
-      href: https://github.com/derekperrin
-    - icon: signal
-      href: https://signal.me/#eu/jDJYIIc0xtYuW17WQUWKoAzWhhY6M6muZrA9Q-r1U7jZ6mpIgwROKJf4xUooAcRW
-    - icon: mastodon
-      href: https://mathstodon.xyz/@derekperrin
-    - icon: twitter-x
-      href: https://x.com/derek_perrin
 ---
 
 Hi, I'm Derek! I'm currently working towards a PhD in Mathematics in New Zealand. My research area is in isogenies and their applications to post-quantum cryptography. In my spare time, I enjoy knitting, working on my penmanship, discovering new recipes to cook, and playing video games.
+
+::: {#bio-icons}
+[{{< fa brands linkedin title="LinkedIn">}}](https://www.linkedin.com/in/derekperrin) &nbsp;
+    [{{< fa brands github title="Github">}}](https://github.com/derekperrin) &nbsp;
+    [{{< fa brands signal-messenger title="Signal">}}](https://signal.me/#eu/jDJYIIc0xtYuW17WQUWKoAzWhhY6M6muZrA9Q-r1U7jZ6mpIgwROKJf4xUooAcRW) &nbsp;
+    [{{< fa brands mastodon title="Mastodon">}}](https://mathstodon.xyz/@derekperrin){rel="me"} &nbsp;
+    [{{< fa brands bluesky title="Bluesky">}}](https://bsky.app/profile/derekperrin.com)
+:::
