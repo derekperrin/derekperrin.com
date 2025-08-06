@@ -1,13 +1,12 @@
 ---
 title: "Derek Perrin"
-image: media/headshot.jpg
+image: media/portrait.jpg
 toc: false
 about:
   template: jolla
   image-shape: round
   image-width: 15em
 ---
-
 Hi, I'm Derek! I'm currently working towards a PhD in Mathematics in New Zealand. My research area is in isogenies and their applications to post-quantum cryptography. In my spare time, I enjoy knitting, working on my penmanship, discovering new recipes to cook, and playing video games.
 
 ::: {#bio-icons}
