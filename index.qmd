@@ -7,12 +7,14 @@ about:
   image-shape: round
   image-width: 15em
 ---
-Hi, I'm Derek! I'm currently working towards a PhD in Mathematics in New Zealand. My research area is in isogenies and their applications to post-quantum cryptography. In my spare time, I enjoy knitting, working on my penmanship, discovering new recipes to cook, and playing video games.
+Hi, I'm Derek! I'm a mathematician with a PhD from the University of Canterbury in Christchurch, New Zealand. My mathematical expertise is in number theory and algebraic geometry. My doctoral research focused on isogenies of elliptic curves and their applications in constructing post-quantum cryptographic primitives. I am now looking at applying my problem-solving skills in industry roles where mathematical rigour and algorithmic design are valued.
+
+Outside of work, I enjoy knitting, working on my penmanship, experimenting with new recipes in the kitchen, and playing video games.
 
 ::: {#bio-icons}
-[{{< fa brands linkedin title="LinkedIn">}}](https://www.linkedin.com/in/derekperrin) &nbsp;
-    [{{< fa brands github title="Github">}}](https://github.com/derekperrin) &nbsp;
-    [{{< fa brands signal-messenger title="Signal">}}](https://signal.me/#eu/jDJYIIc0xtYuW17WQUWKoAzWhhY6M6muZrA9Q-r1U7jZ6mpIgwROKJf4xUooAcRW) &nbsp;
-    [{{< fa brands mastodon title="Mastodon">}}](https://mathstodon.xyz/@derekperrin){rel="me"} &nbsp;
-    [{{< fa brands bluesky title="Bluesky">}}](https://bsky.app/profile/derekperrin.com)
+[{{< fa brands linkedin title="LinkedIn">}}](https://www.linkedin.com/in/derekperrin){target="_blank"} &nbsp;
+    [{{< fa brands github title="Github">}}](https://github.com/derekperrin){target="_blank"} &nbsp;
+    [{{< fa brands signal-messenger title="Signal">}}](https://signal.me/#eu/jDJYIIc0xtYuW17WQUWKoAzWhhY6M6muZrA9Q-r1U7jZ6mpIgwROKJf4xUooAcRW){target="_blank"} &nbsp;
+    [{{< fa brands mastodon title="Mastodon">}}](https://mathstodon.xyz/@derekperrin){rel="me" target="_blank"} &nbsp;
+    [{{< fa brands bluesky title="Bluesky">}}](https://bsky.app/profile/derekperrin.com){target="_blank"}
 :::
