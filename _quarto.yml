@@ -8,7 +8,7 @@ website:
   title: "Derek Perrin"
   description: "This is Derek Perrin's personal site."
   site-url: https://derekperrin.com
-  draft-mode: unlinked
+  draft-mode: gone
   navbar:
     right:
       - icon: rss
